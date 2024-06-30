@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "685765412508",
+    "project_id": "firegallery-210a5",
+    "storage_bucket": "firegallery-210a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685765412508:android:04f7bbfe99c73e29770f59",
+        "android_client_info": {
+          "package_name": "com.videoreco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhAAn-v3Gb44lUBWEjWy7BC429winwOi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
